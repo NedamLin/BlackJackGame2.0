@@ -1,0 +1,33 @@
+
+body{
+    font-family: 'Cabin', sans-serif;
+    text-align: center;  
+    background-image:url(./Background/pexels-pavel-danilyuk-7594303.jpg);
+    background-size: cover;
+    background-repeat: none
+    ;
+}
+
+
+#dealer-cards img{
+    height: 175px;
+    margin: 1px;
+    width: 125px;
+}
+
+#your-cards img{
+    height: 175px;
+    margin: 1px;
+    width: 125px;
+}
+
+#hit {
+    width: 100px;
+    height: 50px;
+    font: size 20px;
+}
+#stay {
+    width: 100px;
+    height: 50px;
+    font: size 20px;
+}
